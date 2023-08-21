@@ -1,0 +1,5 @@
+#- The tool shall look for acronyms with between 2 and 4 letters (inclusive)
+#- The tool should look for acronyms with at least 2 uppercase letters
+#- The tool shall treat special characters (/, -, *, ...) as spaces
+
+/\b[A-Z]{2,4}\b/

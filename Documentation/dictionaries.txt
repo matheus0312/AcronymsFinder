@@ -1,0 +1,6 @@
+#Known acronyms 
+BIT, Built In Test
+
+#Known false positives
+AEL
+SAAB
